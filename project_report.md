@@ -19,11 +19,6 @@ After performing hyperparameter tuning, the model performance showed improvement
 ### If you were given more time with this dataset, where do you think you would spend more time?
 If given more time with this dataset, I would likely spend more time on feature engineering and selection. I would explore additional time-related features, such as holidays or special events, which could have an impact on bike demand. Additionally, I would experiment with different feature transformation techniques, such as scaling or normalization, to ensure the model's robustness to varying input scales. Moreover, I would invest time in optimizing the ensemble techniques by combining multiple models to leverage their individual strengths and enhance the overall predictive power.
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
-|--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
 
 |      model    |       GBM       |       CAT       |       XGB       |   score  |
 |---------------|-----------------|-----------------|-----------------|----------|
